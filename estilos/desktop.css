@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+div#box {
+    width: 300px;
+}
+
+div.body > h2 {
+    font-size: 1.3em;
+}
+
+div.body > p {
+    font-size: 1em;
+}
